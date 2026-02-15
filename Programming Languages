@@ -28,3 +28,23 @@ Portable: Can run on different machines.
 
 Disadvantages:
 Slower than low-level languages (need translation into machine code).
+
+
+Compilers and Interpreters: How Code Gets Translated
+Compiler:
+Definition: A program that translates the entire source code into machine code at once.
+Output: An executable file that can run without needing the source code again.
+Pros:
+i)Faster execution after compilation.
+ii)No need for source code once compiled.
+Example: C, C++.
+
+Interpreter:
+Definition: A program that translates and runs the source code line by line.
+Output: Executes code directly, no executable file is produced.
+Pros:
+Easier for debugging.
+Cons:
+i)Slower execution since it translates code line by line.
+ii)Requires source code to be available every time.
+Example: Python, JavaScript.
