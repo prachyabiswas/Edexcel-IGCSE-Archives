@@ -109,3 +109,11 @@ Question: What are the advantages and disadvantages of using Assembly language o
 Answer:
 Advantages: Assembly provides better control over hardware, allowing efficient programs.
 Disadvantages: Harder to write and debug.
+
+
+Activity 25: Graphical vs Textual Languages
+Graphical Programming: Used in visual programming languages like Scratch. These are intuitive and easy for beginners to start coding.
+Example: In Scratch, you use blocks to represent code and "snap" them together, making it a great choice for those new to programming.
+
+Textual Programming: Involves writing code in languages like Python or Java.
+Example: Writing the statement print("Hello, World!") in Python is an example of textual programming.
