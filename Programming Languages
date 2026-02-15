@@ -20,3 +20,11 @@ Example in Assembly language:
         ADD AX, 3   ; This means: add 3 to the value in the AX register
 But even Assembly language still needs to be converted into machine code by a special program called an assembler.
 
+
+So Why Use Low-Level Language?
+Advantages:
+Easier to write and read.
+Portable: Can run on different machines.
+
+Disadvantages:
+Slower than low-level languages (need translation into machine code).
