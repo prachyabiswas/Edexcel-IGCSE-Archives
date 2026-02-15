@@ -82,6 +82,21 @@ Compilers vs Interpreters:
 | Speed            | Faster execution after compiling           | Slower execution                     |
 | Error Handling   | Errors reported after full program compile | Stops at each error during execution |
 
+Why Use Compilers?
+Efficiency: Once a program is compiled, it can run faster because the machine code is directly executed by the CPU.
+Security: Since the source code is not exposed, it is harder to copy or modify the program.
+
+O-Level Example:
+Question: Why would a software company use a compiler to distribute a program to the public?
+Answer:
+A compiler creates a compiled version of the program that can be run on any compatible machine, making the program portable.
+The source code remains hidden, making it secure from copying.
+
+
+Why Use Interpreters?
+Ease of Debugging: Since interpreters execute the code line-by-line, errors are easier to locate because the program stops when an error occurs.
+Immediate Feedback: As the interpreter translates each line, the program runs instantly, which is great for testing small code snippets.
+
 
 Writing Programs in Assembly Language
 Challenges:
