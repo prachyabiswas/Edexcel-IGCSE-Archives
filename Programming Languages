@@ -1,0 +1,7 @@
+What is a Programming Language?
+A programming language is a way for people to tell computers what to do. But computers only understand special codes called machine code (which looks like a bunch of 1s and 0s).
+
+Key Objectives in Understanding Programming Languages:
+i)Understanding high-level vs low-level programming languages.
+ii)Understanding what assemblers, compilers, and interpreters do when translating programming languages into machine code.
+iii)Recognizing the advantages and disadvantages of different translation methods (compilers, interpreters).
