@@ -71,3 +71,26 @@ Question: What is the difference between a compiler and an interpreter?
 Answer:
 i)A compiler translates the entire program into machine code before running it, and you get an executable file to run later.
 ii)An interpreter translates and runs the program line by line, so you need the source code each time you run the program, and it runs slower.
+
+
+
+Compilers vs Interpreters:
+| Feature          | **Compiler**                               | **Interpreter**                      |
+| ---------------- | ------------------------------------------ | ------------------------------------ |
+| Translation Type | Translates the entire program at once      | Translates and executes line-by-line |
+| Output           | Generates an executable file               | Executes directly, no file generated |
+| Speed            | Faster execution after compiling           | Slower execution                     |
+| Error Handling   | Errors reported after full program compile | Stops at each error during execution |
+
+
+Writing Programs in Assembly Language
+Challenges:
+1)Limited Instructions: Only a few basic commands available (e.g., ADD, MOV).
+2)Memory Management: You must handle memory and data storage manually.
+3)Debugging: It is difficult to debug and errors might cause the system to crash.
+
+O-Level Example:
+Question: What are the advantages and disadvantages of using Assembly language over high-level languages?
+Answer:
+Advantages: Assembly provides better control over hardware, allowing efficient programs.
+Disadvantages: Harder to write and debug.
