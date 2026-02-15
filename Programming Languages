@@ -13,4 +13,10 @@ Machine code is the lowest level of programming. It’s just 1s and 0s (binary c
                              01010101 10101010 11110000
 Computers can understand machine code, but it’s too hard for humans to read or write directly.
 
+Assembly Language:
+Assembly language is a step up from machine code. It uses short words or mnemonics (like MOV or ADD) that are easier to understand than just 1s and 0s.
+Example in Assembly language:
+        MOV AX, 5   ; This means: move the number 5 into the AX register
+        ADD AX, 3   ; This means: add 3 to the value in the AX register
+But even Assembly language still needs to be converted into machine code by a special program called an assembler.
 
