@@ -117,3 +117,33 @@ Example: In Scratch, you use blocks to represent code and "snap" them together, 
 
 Textual Programming: Involves writing code in languages like Python or Java.
 Example: Writing the statement print("Hello, World!") in Python is an example of textual programming.
+
+
+
+
+
+1(a). Give two reasons why some programs are written in a low-level language.
+(2 Marks)
+Answer:
+i)Direct control of hardware and memory – Low-level programming languages allow programmers to directly control hardware and memory management, which can lead to more efficient and optimized code. This is especially beneficial for system-level programming like operating systems or device drivers.
+ii)Faster execution time – Programs written in low-level languages, such as assembly, can be more efficient in terms of execution speed. This is because they are closer to machine code and do not require the extra overhead that high-level languages do (such as compilation or interpretation).
+
+Examiner's Guidance for Answer:
+Award 1 mark for each valid reason.
+Good responses should mention direct hardware/memory control and faster execution or similar reasons as advantages of low-level languages.
+
+
+1(b). Describe the benefits of using a compiler instead of an interpreter when writing a program.
+(3 Marks)
+Answer:
+i)Faster execution – A compiler translates the entire program into machine code at once, which can then be executed directly by the computer. This results in faster execution because there is no need for re-interpretation every time the program runs, unlike with an interpreter.
+ii)Error checking before execution – A compiler analyzes the entire program and produces an error report if any errors are found in the code. This helps the programmer identify and fix errors before execution, preventing runtime crashes or issues.
+iii)Code optimization – Compilers often have optimization features that make the machine code more efficient, helping improve the program's performance in terms of speed and resource usage.
+
+Examiner's Guidance for Answer:
+1 mark per valid reason (e.g., error checking, faster execution).
+Mentioning optimization is a good added point.
+Avoid talking about runtime processes since the question specifically asks about the benefits of using a compiler instead of an interpreter.
+
+
+
