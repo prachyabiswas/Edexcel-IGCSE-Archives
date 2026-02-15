@@ -48,3 +48,20 @@ Cons:
 i)Slower execution since it translates code line by line.
 ii)Requires source code to be available every time.
 Example: Python, JavaScript.
+
+
+Comparison of Low-Level and High-Level Languages:
+Low-Level Languages:
+Faster because they directly control the machine.
+Harder to write and understand.
+
+High-Level Languages:
+Easier to write and understand.
+Slower because they have to be translated into machine code first.
+
+Examples:
+Example 1: Low-Level vs High-Level Language (O-Level Question)
+Question: Explain the difference between low-level and high-level programming languages.
+Answer:
+i)Low-level languages are very fast and allow complete control over the computer's hardware. But they are difficult to understand and write.
+ii)High-level languages are easier for humans to write and understand but are slower to run because they need to be translated into machine code first.
