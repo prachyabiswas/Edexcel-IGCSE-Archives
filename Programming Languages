@@ -146,4 +146,32 @@ Mentioning optimization is a good added point.
 Avoid talking about runtime processes since the question specifically asks about the benefits of using a compiler instead of an interpreter.
 
 
+2(a): Design an algorithm to:
+Ask the user to input a pilot code and a date of birth
+Write these inputs to the pilots.txt text file
+
+Solution:
+Algorithm to store pilot code and date of birth in a text file:
+
+Start
+Open the file pilots.txt in write mode
+Prompt the user to input a pilot code
+Prompt the user to input the date of birth
+Write the pilot code and date of birth into the file pilots.txt
+Close the file
+End
+
+Example in code (using Python):
+# Open the file in write mode
+pilotData = open("pilots.txt", "w")
+
+# Get user input for pilot code and date of birth
+pilotCode = input("Enter pilot code: ")
+dob = input("Enter date of birth: ")
+
+# Write the data to the file
+pilotData.write(pilotCode + "," + dob + "\n")
+
+# Close the file after writing
+pilotData.close()
 
