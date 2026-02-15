@@ -65,3 +65,9 @@ Question: Explain the difference between low-level and high-level programming la
 Answer:
 i)Low-level languages are very fast and allow complete control over the computer's hardware. But they are difficult to understand and write.
 ii)High-level languages are easier for humans to write and understand but are slower to run because they need to be translated into machine code first.
+
+Example 2: Compiler vs Interpreter (O-Level Question)
+Question: What is the difference between a compiler and an interpreter?
+Answer:
+i)A compiler translates the entire program into machine code before running it, and you get an executable file to run later.
+ii)An interpreter translates and runs the program line by line, so you need the source code each time you run the program, and it runs slower.
