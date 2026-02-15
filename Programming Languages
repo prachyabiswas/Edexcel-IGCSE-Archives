@@ -5,3 +5,12 @@ Key Objectives in Understanding Programming Languages:
 i)Understanding high-level vs low-level programming languages.
 ii)Understanding what assemblers, compilers, and interpreters do when translating programming languages into machine code.
 iii)Recognizing the advantages and disadvantages of different translation methods (compilers, interpreters).
+
+
+Topic:Low-Level Programming Languages (e.g., Assembly and Machine Code)
+Machine Code:
+Machine code is the lowest level of programming. It’s just 1s and 0s (binary code), like:
+                             01010101 10101010 11110000
+Computers can understand machine code, but it’s too hard for humans to read or write directly.
+
+
